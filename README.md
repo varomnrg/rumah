@@ -45,6 +45,3 @@ make seed      # Seed initial data
 ## Philosophy
 
 Rumah prioritizes learning, experimentation, and long-term maintainability over production perfection. It's not a SaaS product, but it's built with discipline so it can be safely self-hosted.
-
-See [AGENTS.md](AGENTS.md) for project principles and conventions.
-
